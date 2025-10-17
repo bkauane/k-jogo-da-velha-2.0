@@ -3,10 +3,10 @@
 |   | 1 | 2 | 3 |
 |---|---|---|---|
 | A |   |   |   |
-| B |   |   |   |
+| B | X |   |   |
 | C |   |   |   |
 
 **Legenda**
 
 - ❌ Primeiro jogador 
-- ⭕ Segundo jogador
+- O Segundo jogador
