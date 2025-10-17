@@ -10,3 +10,7 @@
 
 - ❌ Primeiro jogador 
 - O Segundo jogador
+
+## Resultado
+
+- **O Venceu**
